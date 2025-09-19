@@ -7,7 +7,7 @@ Designed with speed, usability, and a modern look in mind.
 - React.js
 - HTML, CSS, JavaScript
 
-## 🌐 Live Demo
+## 🌐 Live Project
 https://ztfr.org
 
 ## ✨ Features
